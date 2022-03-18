@@ -1,0 +1,1 @@
+export const URL = `https://api.chess.com/pub/player/`

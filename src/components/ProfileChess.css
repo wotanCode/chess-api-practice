@@ -1,0 +1,12 @@
+.card {
+  background-color: #232323;
+  width: 100%;
+}
+
+.card-content {
+  padding: 50px;
+  
+}
+.card-content h1, h2, h3, h4, h5, h6, img{
+  margin: 0px;
+}
