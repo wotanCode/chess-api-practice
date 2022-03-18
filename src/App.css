@@ -2,8 +2,22 @@ body {
   background-color: #323232;
 }
 
+input {
+    margin: 0 auto;
+    width: 70%;
+    height: 45px;
+    padding: 0 20px;
+    font-size: 1rem;
+    border: 1px solid #D0CFCE;
+    outline: none;
+}
+
 footer {
   margin-top: 10px;
+}
+
+footer h6 a {
+  color: green;
 }
 
 .App {

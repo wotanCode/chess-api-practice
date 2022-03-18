@@ -1,12 +1,38 @@
 .card {
   background-color: #232323;
   width: 100%;
+  border-radius: 40px;
 }
 
 .card-content {
   padding: 50px;
-  
+  margin: auto;
 }
+
 .card-content h1, h2, h3, h4, h5, h6, img{
   margin: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-result{
+  margin-top: 50px;
+}
+
+.card-img{
+  border-radius: 30px;
+  display: block;
+  margin: auto;
+  width: 50%;
+  transform-style:preserve-3d;
+  transition:0.5s all ease;
+}
+.card-img:hover{
+  transform:rotateY(180deg);
+}
+.card-front{
+  border-radius:5px;
+  position:absolute;
+  background:#e8e8e8;
 }
