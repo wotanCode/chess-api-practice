@@ -1,7 +1,9 @@
 # chess-api-practice
-Public
 
 webApp de practica que conecta con el endpoints de chess.com
+
+### Documentación
+https://www.chess.com/news/view/published-data-api#pubapi-endpoint-player
 
 ### Librerías utilizadas
 - React
