@@ -33,7 +33,7 @@ export const ProfileChess = () => {
             placeholder='Usuario'
             onKeyPress={e => handleProfile(e)}
           />
-          {/* <button onClick={handleProfile}>Buscar</button> */}
+           {/* <button onClick={handleProfile}>Buscar</button> */}
         </form>
 
         {

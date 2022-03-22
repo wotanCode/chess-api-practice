@@ -2,7 +2,7 @@ export const Footer = () => {
   return (
     <footer>
       <h6>
-        <p>Made with love ❤ by:</p>
+        Made with love ❤ by:
         <a
           target="_blank"
           href="https://www.linkedin.com/in/pedro-yanez/"
